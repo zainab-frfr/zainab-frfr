@@ -1,15 +1,15 @@
 <h1>Hi 👋, I'm Zainab!</h1>
 <h3 align="center">An aspiring Flutter developer with a keen interest in building beautiful and functional mobile applications.</h3>
 
-- 🔭 I’m currently working on [an app called My AI Assistant for my AI course](https://github.com/zainab-frfr/MyAIAssistantFrontend.git)
+- 🔭 I’m currently working on an app called [My AI Assistant] for my AI course(https://github.com/zainab-frfr/MyAIAssistantFrontend.git)
 
-- 🌱 I’m currently diving into **Flutter, exploring its capabilities, and working on various projects to hone my skills.**
+- 🌱 I’m learning about **Flutter, exploring its capabilities, and working on various projects to hone my skills.**
 
 - 👯 I’m looking to collaborate on **projects related to Mobile App Development.**
 
-- 📄 Know about my experiences **https://linktr.ee/zainab.frfr**
+- 📄 Know about my experiences at **https://linktr.ee/zainab.frfr**
 
-- 📫 How to reach me **zainab.rehman.frfr@gmail.com**
+- 📫 Drop me an email at **zainab.rehman.frfr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
