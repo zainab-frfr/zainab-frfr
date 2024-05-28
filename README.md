@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zainab!</h1>
+<h1>Hi 👋, I'm Zainab!</h1>
 <h3 align="center">An aspiring Flutter developer with a keen interest in building beautiful and functional mobile applications.</h3>
 
 - 🔭 I’m currently working on [an app called My AI Assistant for my AI course](https://github.com/zainab-frfr/MyAIAssistantFrontend.git)
