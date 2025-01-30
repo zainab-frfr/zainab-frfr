@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Zainab!</h1>
-<h3 align="center">A Flutter developer with a keen interest in building beautiful and functional mobile applications.</h3>
+<h3>A Flutter developer with a keen interest in building beautiful and functional mobile applications.</h3>
 
 - 🔭 I’m currently working on a timeline management app called **[OAAP](https://github.com/zainab-frfr/OAAP)**.
 
