@@ -1,13 +1,11 @@
 <h1>Hi 👋, I'm Zainab!</h1>
-<h3>A Flutter developer with a keen interest in building beautiful and functional mobile applications.</h3>
+<h3>A curious CS student who loves building things that are meaningful, creative, and fun.</h3>
 
-- 🔭 I’m currently working on a timeline management app called **[OAAP](https://github.com/zainab-frfr/OAAP)**.
+- 🎨 My favorite project is the **[Birthday Card](https://github.com/zainab-frfr/Birthday-Card)** — it reflects who I am beyond just a developer.
 
-- 🌱 I’m learning about **Flutter, exploring its capabilities, and working on various projects to hone my skills.**
+- 🌱 Always exploring new tools and technologies across development, automation, and AI.
 
-- 👯 I’m looking to collaborate on **projects related to Mobile App Development.**
-
-- 📄 Know about my experiences at **https://linktr.ee/zainab.frfr**
+- 🤝 I love collaborating on projects that blend creativity with real-world impact.
 
 - 📫 Drop me an email at **zainab.rehman.frfr@gmail.com**
 
