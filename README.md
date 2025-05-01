@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Zainab!</h1>
 <h3>A curious CS student who loves building things that are meaningful, creative, and fun.</h3>
 
-- 🎨 My favorite project is the **[Birthday Card](https://github.com/zainab-frfr/Birthday-Card)** — it reflects who I am beyond just a developer.
+- 🎨 My favorite project of mine is **[Birthday Card](https://github.com/zainab-frfr/Birthday-Card)** — it reflects who I am beyond just a developer.
 
 - 🌱 Always exploring new tools and technologies across development, automation, and AI.
 
